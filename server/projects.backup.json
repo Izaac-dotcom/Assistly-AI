@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1786334218229,
+    "name": "Client Report",
+    "status": "active",
+    "tasks": [
+      {
+        "id": 1786334964363,
+        "title": "write the first draft",
+        "completed": true
+      }
+    ],
+    "createdAt": "2026-08-10T03:56:58.229Z",
+    "description": "",
+    "context": ""
+  },
+  {
+    "id": 1786384581386,
+    "name": "Website Redesign",
+    "status": "active",
+    "tasks": [
+      {
+        "id": 1786384917782,
+        "title": "Define the project goals",
+        "completed": false
+      },
+      {
+        "id": 1786384917783,
+        "title": "Research requirements",
+        "completed": false
+      },
+      {
+        "id": 1786384917784,
+        "title": "Create the first draft",
+        "completed": false
+      },
+      {
+        "id": 1786384917785,
+        "title": "Review the work",
+        "completed": false
+      },
+      {
+        "id": 1786384917786,
+        "title": "Make final improvements",
+        "completed": false
+      },
+      {
+        "id": 1786384917787,
+        "title": "Complete and deliver the project",
+        "completed": false
+      }
+    ],
+    "createdAt": "2026-08-10T17:56:21.386Z",
+    "description": "",
+    "context": ""
+  },
+  {
+    "id": 1786386549640,
+    "name": "Test Project",
+    "status": "active",
+    "tasks": [
+      {
+        "id": 1786386557817,
+        "title": "Define the project goals",
+        "completed": false
+      },
+      {
+        "id": 1786386557818,
+        "title": "Research requirements",
+        "completed": false
+      },
+      {
+        "id": 1786386557819,
+        "title": "Create the first draft",
+        "completed": false
+      },
+      {
+        "id": 1786386557820,
+        "title": "Review the work",
+        "completed": false
+      },
+      {
+        "id": 1786386557821,
+        "title": "Make final improvements",
+        "completed": false
+      },
+      {
+        "id": 1786386557822,
+        "title": "Complete and deliver the project",
+        "completed": false
+      }
+    ],
+    "createdAt": "2026-08-10T18:29:09.640Z",
+    "description": "",
+    "context": ""
+  },
+  {
+    "id": 1786386694733,
+    "name": "Test Project 2",
+    "status": "active",
+    "tasks": [
+      {
+        "id": 1786386701467,
+        "title": "Define the project goals",
+        "completed": true,
+        "dueDate": null
+      },
+      {
+        "id": 1786386701468,
+        "title": "Research requirements",
+        "completed": true,
+        "dueDate": null
+      },
+      {
+        "id": 1786386701469,
+        "title": "Create the first draft",
+        "completed": true,
+        "dueDate": null
+      },
+      {
+        "id": 1786386701470,
+        "title": "Review the work",
+        "completed": false,
+        "dueDate": null
+      },
+      {
+        "id": 1786386701471,
+        "title": "Make final improvements",
+        "completed": false,
+        "dueDate": null
+      },
+      {
+        "id": 1786386701472,
+        "title": "Complete and deliver the project",
+        "completed": false,
+        "dueDate": null
+      }
+    ],
+    "createdAt": "2026-08-10T18:31:34.733Z",
+    "description": "a project for testing Assistly's AI employee features.",
+    "context": ""
+  }
+]
